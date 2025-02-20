@@ -13,7 +13,7 @@ So, it is helpfull for your proffessional work & also boost your working exprien
 
 # Download all file into a zip & Extract file.
 
-1) Run "AutoHotkey_2.0.19_setup.exe" Or Latest version of "AutoHotkey".
+1) Run "AutoHotkey_setup.exe" Or Latest version of "AutoHotkey".
 
 2) Run the "TaskViewScript.ahk".
 
