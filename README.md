@@ -13,7 +13,7 @@ So, it is helpfull for your proffessional work & also boost your working exprien
 
 # Download all file into a zip & Extract file.
 
-1) Run "AutoHotkey_setup.exe" Or Latest version of "AutoHotkey".
+1) Run "Windows_10" If you has windows 10 Or If you has windows 11, then you run "windows_11".
 
 2) Run the "TaskViewScript.ahk".
 
@@ -28,6 +28,7 @@ shell:startup
 ```
 
 5) Now cut the shortcut of "TaskViewScript.ahk" & paste this into "startup" folder.
+
 
 6) Enjoy the left corner task view Feature :)
 
