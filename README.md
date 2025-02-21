@@ -27,6 +27,8 @@ So, it is helpfull for your proffessional work & also boost your working exprien
 shell:startup
 ```
 
-5) Enjoy the left corner task view Feature :)
+5) Now cut the shortcut of "TaskViewScript.ahk" & paste this into "startup" folder.
+
+6) Enjoy the left corner task view Feature :)
 
 
